@@ -2,12 +2,23 @@ package main
 
 import (
 	"fmt"
-	"time"
+	"sync"
 )
 
+// WaitGroup is used to wait for thr program to finish goroutines
+var wg sync.WaitGroup
+
 func main() {
+
+	wg.Add(2)
+
+	fmt.Println("GO Routines Started")
+
 	go count("sheep")
-	count("fish")
+	go count("fish")
+
+	wg.Wait()
+	fmt.Println("Terminating the Program")
 }
 
 //Concurrency is not Parallelism
@@ -30,8 +41,9 @@ func main() {
 // Fixed Stack Size By default 1MB
 
 func count(thing string) {
+
+	defer wg.Done()
 	for i := 0; i < 10; i++ {
 		fmt.Println(i, thing)
-		time.Sleep(time.Millisecond * 100)
 	}
 }
