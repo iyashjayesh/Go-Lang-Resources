@@ -13,7 +13,7 @@ func adder() func(int) int {
 func main(){
 
 	fmt.Println("Clouseres")
-	//clouseres are functions that have access to variables outside their scope  
+	//clouseres are functions that have access to variables outside their scope  //anonymous function
 	//(scope is the area of code where the variable is accessible) 
 	sum := adder()
 	
