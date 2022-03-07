@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"ToDo_React+Go/server/routers"
+	"ToDo_React_and_Go/server/routers"
 
-	"github.com/iyashjayesh/Go-Lang-Resources/projects/ToDo_React+Go/server/routers"
+	"github.com/iyashjayesh/Go-Lang-Resources/projects/ToDo_React_and_Go/server/routers"
 )
 
 func main() {

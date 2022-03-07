@@ -1,6 +1,7 @@
 package main
 
 //Interfaces are named collections of method signatures.
+//Interface describes all the methods of a method set and provides the signatures for each method.
 
 import (
 	"fmt"

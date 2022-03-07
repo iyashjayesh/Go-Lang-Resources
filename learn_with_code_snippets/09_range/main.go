@@ -49,15 +49,4 @@ func main(){
 		fmt.Printf("Index :%d and Value :%c\n", i, v)
 	}
 
-	// range over functions
-
-	// range over pointers
-
-	// range over structs
-
-	// range over interfaces
-
-	// range over channels
-
-
 }
