@@ -12,4 +12,22 @@
 
 ### Useful Websites
 - [Go by Example](https://gobyexample.com/)
+- [Go by Example](https://gobyexample.com/)
+
+### Blogs and Articles
+- [How to use Time package in Golang](https://codingyash.medium.com/how-to-use-time-package-in-golang-de71aa31a887)
+- [How to get IP and Hostname in Golang and Java](https://codingyash.medium.com/how-to-get-ip-and-hostname-in-golang-and-java-71352c12cb33)
+- [Logrus in Golang — How to use Logrus in Go?](https://codingyash.medium.com/logrus-in-golang-how-to-use-logrus-in-go-5f72f0c65202)
+- [Protocol Buffer Implementation in Golang](https://codingyash.medium.com/protocol-buffer-implementation-in-golang-89345ca59192)
+- [Compare two arrays/structs in Golang](https://codingyash.medium.com/compare-two-arrays-structs-in-go-42179db3862c)
 - [A Complete Guide to JSON in Golang (With Examples)](https://www.sohamkamani.com/golang/json/)
+
+
+Note: I'll keep adding more resources as I learn more. Feel free to contribute to this repo.
+
+Further Plans:
+- Will add example of design patterns in Go Lang.
+- Will add example of Go Lang with Docker and Kubernetes.
+- Will add example of Go Lang with all the popular databases.
+- Will add example of Go Lang with all the popular frameworks.
+- Project ideas in Go Lang. 
