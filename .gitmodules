@@ -1,3 +1,6 @@
 [submodule "golang-and-java-protobuf-implementation"]
 	path = golang-and-java-protobuf-implementation
 	url = https://github.com/iyashjayesh/golang-and-java-protobuf-implementation.git
+[submodule "redis-pub-sub"]
+	path = redis-pub-sub
+	url = https://github.com/iyashjayesh/redis-pub-sub.git
