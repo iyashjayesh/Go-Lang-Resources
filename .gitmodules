@@ -1,0 +1,3 @@
+[submodule "golang-and-java-protobuf-implementation"]
+	path = golang-and-java-protobuf-implementation
+	url = https://github.com/iyashjayesh/golang-and-java-protobuf-implementation.git
