@@ -20,6 +20,7 @@
 - [Logrus in Golang — How to use Logrus in Go?](https://codingyash.medium.com/logrus-in-golang-how-to-use-logrus-in-go-5f72f0c65202)
 - [Protocol Buffer Implementation in Golang](https://codingyash.medium.com/protocol-buffer-implementation-in-golang-89345ca59192)
 - [Compare two arrays/structs in Golang](https://codingyash.medium.com/compare-two-arrays-structs-in-go-42179db3862c)
+- [How to use channels and goroutines to receive and process data asynchronously in Go](https://medium.com/@codingyash/how-to-use-channels-and-goroutines-to-receive-and-process-data-asynchronously-in-go-8f666c74e59d)
 - [A Complete Guide to JSON in Golang (With Examples)](https://www.sohamkamani.com/golang/json/)
 
 
