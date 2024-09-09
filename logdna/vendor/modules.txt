@@ -1,0 +1,6 @@
+# github.com/joho/godotenv v1.3.0
+## explicit
+github.com/joho/godotenv
+# github.com/logdna/logdna-go v1.0.2
+## explicit; go 1.14
+github.com/logdna/logdna-go/logger
